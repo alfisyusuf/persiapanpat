@@ -1,6 +1,6 @@
 const quiz_Data = [
     {
-        question: "HTML Stands For <br> <img src='https://en.wikipedia.org/wiki/File:Series_L0.JPG' />",
+        question: "HTML Stands For",
         a: "Hyper Text Markup Language",
         b: "Hype Test Marup Language ",
         c: "High Tood Markup Language",
