@@ -1,32 +1,43 @@
-<html lang="en">
-<head>
+<html>
+<head lang="en">
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
-    <title>Quiz-app</title>
+    <title> Persiapan PAS 1 </title>
+    <link rel="stylesheet" type="text/css" href="style.css">
 </head>
 <body>
-    <div class="quiz-container" id="quiz">
-        <div class="quiz-header">
-            <h2 id="questions">questions</h2>
-            <ul>
-                <li>
-                    <input type="radio" name="answer" class="answer" id="a"><label for="a" id="a_text">a</label></input>
-                </li>
-                <li>
-                    <input type="radio" name="answer" class="answer" id="b"><label for="b" id="b_text">b</label></input>
-                </li>
-                <li>
-                    <input type="radio" name="answer" class="answer" id="c"><label for="c" id="c_text">c</label></input>
-                </li>
-                <li>
-                    <input type="radio" name="answer" class="answer" id="d"><label for="d" id="d_text">d</label></input>
-                </li>
-            </ul>
+    <div class="grid">
+        <div id="quiz">
+            <h1>Exercise from Mr Alfi</h1>
+            
+            <p id="question"> </p>
+
+                <div class="button">
+                <button id="bt0"> <span id="choice0"> </span> </button>
+                <button id="bt1"> <span id="choice1"> </span> </button>
+                <button id="bt2"> <span id="choice2"> </span> </button>
+                <button id="bt3"> <span id="choice3"> </span> </button>
+
+                </div>
+
+                <hr style="margin-top: 50px">
+
+                <footer>
+                <p id="progress"> Question x of y</p>
+                </footer>
         </div>
-        <button type="button" id="button">Submit</button>
     </div>
-    <script src="script.js"></script>
+
+<script src="quiz.js"> </script>
+<script src="question.js"> </script>
+<script src="app.js"> </script>
+
+
+
+
+
+
 </body>
+
+
+
 </html>
