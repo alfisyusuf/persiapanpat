@@ -61,6 +61,8 @@ var questions = [
 
     new Question("Two long, straight wires are parallel and 10 cm apart. One carries a current of 2.0 A, the other a current of 5.0 A. the magnitude and direction of the force per unit length if the currents flow in the same direction is &hellip; .", ["5 x 10<sup>-6</sup> , toward the other wire","5 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , toward the other wire"], "2 x 10<sup>-6</sup> , toward the other wire"),
 
+    new Question("A typical current in a lightning bolt is 3 x 104 A. The magnetic field 2 m from the bolt is &hellip; .", ["2 x 10<sup>-3</sup> T","3 x 10<sup>-3</sup> T","4 x 10<sup>-3</sup> T","5 x 10<sup>-3</sup> T"], "3 x 10<sup>-3</sup> T"),
+
 ];
 
 
