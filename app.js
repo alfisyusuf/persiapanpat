@@ -55,6 +55,8 @@ var questions = [
     
     new Question("A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. The magnetic field within it is &hellip; .", ["3 x 10<sup>5</sup> T", "6 x 10<sup>5</sup> T","1.2 x 10<sup>4</sup> T", "1.8 x 10<sup>4</sup> T"], "6 x 10<sup>5</sup> T"),
 
+    new Question("A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. If the toroid is filled with iron for which &chi;=3.0&times;10<sup>3</sup>, the magnetic field within it is &hellip; .", ["0.09 T","0.12 T","0.15 T","0.18 T"], "0.18 T"),
+
 ];
 
 
