@@ -57,6 +57,8 @@ var questions = [
 
     new Question("A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. If the toroid is filled with iron for which &chi;=3.0&times;10<sup>3</sup>, the magnetic field within it is &hellip; .", ["0.09 T","0.12 T","0.15 T","0.18 T"], "0.18 T"),
 
+    new Question("Two long, straight wires are parallel and 10 cm apart. One carries a current of 2.0 A, the other a current of 5.0 A. If the two currents flow in opposite directions, the magnitude and direction of the force per unit length of one wire on the other is &hellip; .", ["5 x 10<sup>-6</sup> , toward the other wire","5 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , toward the other wire"], "2 x 10<sup>-6</sup> , away from the other wire"),
+
 ];
 
 
