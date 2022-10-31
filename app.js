@@ -59,7 +59,7 @@ var questions = [
 
     new Question("Two long, straight wires are parallel and 10 cm apart. One carries a current of 2.0 A, the other a current of 5.0 A. If the two currents flow in opposite directions, the magnitude and direction of the force per unit length of one wire on the other is &hellip; .", ["5 x 10<sup>-6</sup> , toward the other wire","5 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , toward the other wire"], "2 x 10<sup>-6</sup> , away from the other wire"),
 
-    new Question("", ["","","",""], "")
+    new Question("Two long, straight wires are parallel and 10 cm apart. One carries a current of 2.0 A, the other a current of 5.0 A. the magnitude and direction of the force per unit length if the currents flow in the same direction is &hellip; .", ["5 x 10<sup>-6</sup> , toward the other wire","5 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , away from the other wire","2 x 10<sup>-6</sup> , toward the other wire"], "2 x 10<sup>-6</sup> , toward the other wire"),
 
 ];
 
