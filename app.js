@@ -52,7 +52,8 @@ var questions = [
     
 
     new Question("A solenoid consists of 1000 windings and is 0.500 cm long. A current of 2.00 amps is supplied to the windings. The magnitude of the strong, constant magnetic field which runs through the center of the solenoid is &hellip; .", ["0.308 T", "0.407 T","0.503 T", "0.500 T"], "0.503 T"),
-        
+    
+    new Question("A current of 1.5 A flows through the windings of a large, thin toroid with 200 turns per meter and a radius of 1 meter. The magnetic field within it is &hellip; .", ["3 x 10<sup>5</sup> T", "6 x 10<sup>5</sup> T","1.2 x 10<sup>4</sup> T", "1.8 x 10<sup>4</sup> T"], "6 x 10<sup>5</sup> T"),
 
 ];
 
