@@ -69,6 +69,7 @@ var questions = [
 
     new Question("The direction of the magnetic force acting on the electrons is … .<br><br><img src='https://lh4.googleusercontent.com/RY_xvFhlpcM2Z4ShE5Y716fKZvb8luhvdl5Hgzt3h0uBisuK0dowWN2UaxBEYqiIRpopkz-DZ113aSqMvHzSC0GyT4zrQORH9iH2zobGRpbs1XeL-bCi6FMPZNaJDyQ8JAjoUjdVlgEjBqmD-K1FeYGJ9tWJfg7Jvd-S4p15WjLUg6dpC5yhdXmwmwg' style='width:480px' />", ["out of the screen","into the screen","to the right","to the left"], "out of the screen"),
 
+    new Question("The direction of the magnetic force acting on the electrons is … .<br><br><img src='https://lh3.googleusercontent.com/TblOYIp5bwfX-IJb4q5kDkRJ0RvE9ZpnNq9LI7zF8NRADJZ6gY1vdJSSCQ3VWgzBWhPotdS5mvKw73OgqVxCk9fIf9qCmQ85pkw2CF59v1NXQw1_DphBSGx-y5j9u8oq5WUo5s_WfhoJDxOaaXBgEotzFwsQm8tiykIt8vwvxZUeBmdEpo2e-fFWyes' style='width:480px' />", ["out of the screen","into the screen","to the right","to the left"], "into the screen"),
 
 ];
 
