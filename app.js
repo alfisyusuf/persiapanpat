@@ -71,6 +71,10 @@ var questions = [
 
     new Question("The direction of the magnetic force acting on the electrons is … .<br><br><img src='https://lh3.googleusercontent.com/TblOYIp5bwfX-IJb4q5kDkRJ0RvE9ZpnNq9LI7zF8NRADJZ6gY1vdJSSCQ3VWgzBWhPotdS5mvKw73OgqVxCk9fIf9qCmQ85pkw2CF59v1NXQw1_DphBSGx-y5j9u8oq5WUo5s_WfhoJDxOaaXBgEotzFwsQm8tiykIt8vwvxZUeBmdEpo2e-fFWyes' style='width:480px' />", ["out of the screen","into the screen","to the right","to the left"], "into the screen"),
 
+    new Question("The magnitude of the magnetic field 100 cm from a long, thin, straight wire is 8.0μT. The current through the long wire is … .", ["40 A","30 A","20 A","10 A"], "40 A"),
+
+    new Question("A particle of mass 10<sup>-27</sup> kg is moving with speed 10<sup>5</sup> m/s perpendicular to a magnetic field B = 5.0 x 10<sup>-3</sup> T (charge of +e = 1.60 x 10<sup>-19</sup> C). The force on the particle is … .", ["5.0 x 10<sup>-17</sup> N","6.0 x 10<sup>-17</sup> N","7.0 x 10<sup>-17</sup> N","8.0 x 10<sup>-17</sup> N"], "8.0 x 10<sup>-17</sup> N"),
+
 ];
 
 
