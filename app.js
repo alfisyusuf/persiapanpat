@@ -65,7 +65,10 @@ var questions = [
 
     new Question("A long straight wire that is electrified in the direction of East is in a homogeneous magnetic field 100 T to the South. If the electric current is 5 A and the length of the wire is 4 m, then the force will be … .", ["2000 N to the north","2000 N to the south","2000 N down","5 N to the north"], "2000 N down"),
 
-    new Question("An electron with a charge of 1.6 x 10<sup>-19</sup> C is moving at a speed of 7.5 x 10<sup>5</sup> m/s through a magnetic field of 0.8 T as shown below. The magnitude of the magnetic force when an electron is in the magnetic field is … .<br><img src='https://lh4.googleusercontent.com/RY_xvFhlpcM2Z4ShE5Y716fKZvb8luhvdl5Hgzt3h0uBisuK0dowWN2UaxBEYqiIRpopkz-DZ113aSqMvHzSC0GyT4zrQORH9iH2zobGRpbs1XeL-bCi6FMPZNaJDyQ8JAjoUjdVlgEjBqmD-K1FeYGJ9tWJfg7Jvd-S4p15WjLUg6dpC5yhdXmwmwg' style='width:480px' />", ["1.6 x 10<sup>-14</sup> Newton","3.2 x 10<sup>-14</sup> Newton","4.8 x 10<sup>-14</sup> Newton","9.6 x 10<sup>-14</sup> Newton"], "9.6 x 10<sup>-14</sup> Newton"),
+    new Question("An electron with a charge of 1.6 x 10<sup>-19</sup> C is moving at a speed of 7.5 x 10<sup>5</sup> m/s through a magnetic field of 0.8 T as shown below. The magnitude of the magnetic force when an electron is in the magnetic field is … .<br><br><img src='https://lh4.googleusercontent.com/RY_xvFhlpcM2Z4ShE5Y716fKZvb8luhvdl5Hgzt3h0uBisuK0dowWN2UaxBEYqiIRpopkz-DZ113aSqMvHzSC0GyT4zrQORH9iH2zobGRpbs1XeL-bCi6FMPZNaJDyQ8JAjoUjdVlgEjBqmD-K1FeYGJ9tWJfg7Jvd-S4p15WjLUg6dpC5yhdXmwmwg' style='width:480px' />", ["1.6 x 10<sup>-14</sup> Newton","3.2 x 10<sup>-14</sup> Newton","4.8 x 10<sup>-14</sup> Newton","9.6 x 10<sup>-14</sup> Newton"], "9.6 x 10<sup>-14</sup> Newton"),
+
+    new Question("The direction of the magnetic force acting on the electrons is … .<br><br><img src='https://lh4.googleusercontent.com/RY_xvFhlpcM2Z4ShE5Y716fKZvb8luhvdl5Hgzt3h0uBisuK0dowWN2UaxBEYqiIRpopkz-DZ113aSqMvHzSC0GyT4zrQORH9iH2zobGRpbs1XeL-bCi6FMPZNaJDyQ8JAjoUjdVlgEjBqmD-K1FeYGJ9tWJfg7Jvd-S4p15WjLUg6dpC5yhdXmwmwg' style='width:480px' />", ["out of the screen","into the screen","to the right","to the left"], "out of the screen"),
+
 
 ];
 
