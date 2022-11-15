@@ -49,9 +49,9 @@ var questions = [
 
     new Question("Find the electric field when the velocity of the field is 12 m/s and the flux density is 3.75 units.", ["45","15","30","60"], "45"),
 
-    new Question("", ["","","",""], ""),
+    new Question("Find the Lorentz force of a charge 3 C having an electric field of 6 units and magnetic field of 9 units with a velocity 2 m/s.<br><br>use F=qE+q(v&#10005;B)", ["324","36","72","6"], "72"),
 
-    new Question("", ["","","",""], ""),
+    new Question("The force on a conductor of length 14 cm having current 9 A and flux density 6.75 units at an angle of 60&deg; is", ["8.88","7.36","9.75","56"], "7.36"),
 
     new Question("", ["","","",""], ""),
 
