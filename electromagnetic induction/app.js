@@ -57,7 +57,7 @@ var questions = [
 
     new Question("When currents are moving in the opposite direction in two conductors, then the force will be", ["attractive","repulsive","retracting","opposing"], "repulsive"),
 
-    new Question("", ["","","",""], ""),
+    new Question("Find the flux density due to a conductor of length 6m and carrying a current of 30 A(in 10-7 order)<br><br><img src='/electromagnetic induction/img/CodeCogsEqn.svg'><br><br><img src='/electromagnetic induction/img/CodeCogsEqn(1).svg'>", ["1","10","100","0.1"], "10"),
 
     new Question("", ["","","",""], ""),
 
