@@ -61,11 +61,11 @@ var questions = [
 
     new Question("Find the maximum force of the conductor having length 70 cm, current 2.05 A and flux density of 13 units.", ["0.110","38.071","18.655","56.876"], "18.655"),
 
-    new Question("", ["","","",""], ""),
+    new Question("For a transformer with primary turns 300, secondary turns 100, if 30 A current is flowing through primary, we will get ___________", ["90 A","10 A","60 A","120"], "90 A"),
 
-    new Question("", ["","","",""], ""),
+    new Question("What is the function of a transformer?", ["Transformer is used to step down or up the DC voltages and currents","Transformer converts DC to AC voltages","Transformer converts AC to DC voltages","Transformer is used to step down or up the AC voltages and currents"], "Transformer is used to step down or up the AC voltages and currents"),
 
-    new Question("", ["","","",""], ""),
+    new Question("Primary winding of a transformer ______________", ["Is always a low voltage winding","Cannot be determined","Could either be a low voltage or high voltage winding","Is always a high voltage winding"], "Could either be a low voltage or high voltage winding"),
 
     new Question("", ["","","",""], ""),
 
