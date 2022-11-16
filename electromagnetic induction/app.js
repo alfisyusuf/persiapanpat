@@ -59,7 +59,7 @@ var questions = [
 
     new Question("Find the flux density due to a conductor of length 6m and carrying a current of 30 A(in 10-7 order)<br><br><img src='/electromagnetic induction/img/CodeCogsEqn.svg'><br><br><img src='/electromagnetic induction/img/CodeCogsEqn(1).svg'>", ["1","10","100","0.1"], "10"),
 
-    new Question("", ["","","",""], ""),
+    new Question("Find the maximum force of the conductor having length 70 cm, current 2.05 A and flux density of 13 units.", ["0.110","38.071","18.655","56.876"], "18.655"),
 
     new Question("", ["","","",""], ""),
 
