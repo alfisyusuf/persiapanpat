@@ -53,7 +53,7 @@ var questions = [
 
     new Question("The force on a conductor of length 14 cm having current 9 A and flux density 6.75 units at an angle of 60&deg; is", ["8.88","7.36","9.75","56"], "7.36"),
 
-    new Question("The force per unit length of two conductors carrying equal currents of 7 A separated by a distance of 40 cm in air(in 10<sup>-6</sup> order)", ["1.225 x 10<sup>-5</sup>","1.225 x 10<sup>-6</sup>","7.225 x 10<sup>-5</sup>","1.65 x 10<sup>-7</sup>"], "1.225 x 10<sup>-5</sup>"),
+    new Question("The force per unit length of two conductors carrying equal currents of 7 A separated by a distance of 40 cm in air", ["2.45 x 10<sup>-5</sup>","1.225 x 10<sup>-6</sup>","7.225 x 10<sup>-5</sup>","1.65 x 10<sup>-7</sup>"], "2.45 x 10<sup>-5</sup>"),
 
     new Question("When currents are moving in the opposite direction in two conductors, then the force will be", ["attractive","repulsive","retracting","opposing"], "repulsive"),
 
@@ -67,9 +67,9 @@ var questions = [
 
     new Question("Primary winding of a transformer ______________", ["Is always a low voltage winding","Cannot be determined","Could either be a low voltage or high voltage winding","Is always a high voltage winding"], "Could either be a low voltage or high voltage winding"),
 
-    new Question("", ["","","",""], ""),
+    new Question("For a transformer with primary turns 100, secondary turns 300, if 150 V is applied at primary we will get ___________", ["450","300","600","900"], "450"),
 
-    new Question("", ["","","",""], ""),
+    new Question("Transformer core is generally made of ___________", ["Cannot be determined","Can be made with any of the above method","By stacking large number of sheets together","Single block of core material"], "By stacking large number of sheets together"),
 
     new Question("", ["","","",""], ""),
 
