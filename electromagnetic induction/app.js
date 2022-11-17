@@ -71,7 +71,7 @@ var questions = [
 
     new Question("Transformer core is generally made of ___________", ["Cannot be determined","Can be made with any of the above method","By stacking large number of sheets together","Single block of core material"], "By stacking large number of sheets together"),
 
-    new Question("", ["","","",""], ""),
+    new Question("What is the working principle of a Transformer?", ["mutual induction","coulomb law","self induction","ampere law"], "mutual induction"),
 
 ];
 
