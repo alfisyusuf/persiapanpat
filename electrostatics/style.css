@@ -41,7 +41,7 @@ margin-top: 30px;
 }
 
 #bt0, #bt1, #bt2, #bt3 {
-background-color: #A3CB38;
+background-color: #ffffff;
 width: 250px;
 font-size: 20px;
 color: #2f3542;
@@ -53,7 +53,7 @@ padding: 10px 10px;
 
 #bt0:hover, #bt1:hover, #bt2:hover, #bt3:hover {
 cursor: pointer;
-background-color: #2c0747; 
+background-color: #A3CB38; 
 }   
 
 #bt0:focus, #bt1:focus, #bt2:focus, #bt3:focus {
